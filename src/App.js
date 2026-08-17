@@ -8,8 +8,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          Hi there !
-          How are you doing today ?
+          I changed this from feature branch
+        </p>
+        <p>
+          This is new para and added from feature branch
         </p>
         <a
           className="App-link"
